@@ -1,0 +1,3 @@
+split,normal,pneumonia,tuberculosis
+test,763,545,943
+train,2500,2500,2500
